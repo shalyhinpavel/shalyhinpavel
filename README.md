@@ -28,5 +28,5 @@ I'm always open to discussing and collaborating on:
 
 ### 📫 How to Reach Me
 
-*   **LinkedIn:** TBM
+*   **LinkedIn:** [https://www.linkedin.com/in/pavel-shalyhin-0b6700379/))](https://www.linkedin.com/in/pavel-shalyhin-0b6700379/)
 *   **Email:** shalyhinpavel@gmail.com
