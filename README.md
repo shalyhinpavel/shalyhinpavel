@@ -13,7 +13,6 @@ I believe in building small, powerful, open-source tools that solve one problem 
     *   **[Try the Live Demo 🚀](https://huggingface.co/spaces/shalyhinpavel/phoenix)** | **[Read the Research Note 📝](https://gist.github.com/shalyhinpavel/b30465c1eb0e453c7135dd8827fd66a1)**
 
 *   🧠 **[Mycelium](https://github.com/shalyhinpavel/mycelium)**: A cognitive memory architecture that gives LLMs long-term context and prevents "amnesia" in extended dialogues. *Because an AI that can't remember is not a partner, it's just a tool.*
-    *   **[Try the Live Demo 🚀](https://huggingface.co/spaces/shalyhinpavel/mycelium)**
 
 ### 💬 Let's Talk About
 
