@@ -21,7 +21,7 @@ Rather than just building applications, my focus is on solving fundamental archi
 
 ### 1. Sovereign AI & High-Performance Local Inference
 * **The Challenge:** Deploying complex LLM and RAG pipelines on consumer hardware without memory leaks, GC pauses, or unacceptable latency.
-* **Architecture & Applied Mathematics:** Building headless local engines and desktop-integrated AI (e.g., *Sovereign Engine*, *OneCeroOne*) using Rust. A significant part of this work involves low-level mathematical optimizations—translating complex topological models, custom tensor algebra, and graph physics directly into highly optimized, hardware-accelerated code to bypass bloated standard libraries.
+* **Architecture & Applied Mathematics:** Building headless local engines and desktop-integrated AI (e.g., *Sovereign Engine*, [OneCeroOne](https://www.onecero.one/)) using Rust. A significant part of this work involves low-level mathematical optimizations—translating complex topological models, custom tensor algebra, and graph physics directly into highly optimized, hardware-accelerated code to bypass bloated standard libraries.
 * **Outcome:** Radical reduction in memory footprint and latency, ensuring privacy-first, fully sovereign AI capabilities. *(e.g., dropping memory access latency from 800ms to 40ms via custom Lua-scripted graph physics).*
 
 ### 2. Applied Mathematics in E-Commerce Data Analytics
